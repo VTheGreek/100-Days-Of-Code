@@ -36,8 +36,8 @@ are even. */
 /* Write a function that takes a name
  and returns "Hello <name>!". */
 
- function greet(name) {
-    return `Hello ${name}`;
- }
+//  function greet(name) {
+//     return `Hello ${name}`;
+//  }
 
- console.log(greet("Vas"))
+//  console.log(greet("Vas"))
